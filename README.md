@@ -25,6 +25,10 @@ sudo ./run.sh
 source install/setup.bash
 
 ros2 launch mujoco_ros2_control_demos cart_example_position.launch.py
+
+or
+
+ros2 launch mujoco_ros2_control_demos diff_drive.launch.py
 ```
 
 ```bash
@@ -34,3 +38,8 @@ source install/setup.bash
 
 rqt
 ```
+
+![image](https://github.com/user-attachments/assets/0c720c01-bd2c-4e9b-a4d8-2ceec33101f7)
+
+
+
