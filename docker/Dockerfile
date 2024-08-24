@@ -115,6 +115,7 @@ RUN apt update && apt install -y --no-install-recommends \
     ros-${ROS_DISTRO}-rqt-reconfigure \
     ros-${ROS_DISTRO}-rqt-controller-manager \
     ros-${ROS_DISTRO}-rqt-joint-trajectory-controller \
+    ros-${ROS_DISTRO}-rqt-robot-steering \
     ros-${ROS_DISTRO}-rqt-image-view \
     ros-${ROS_DISTRO}-rqt-plot \
   && apt clean && rm -rf /var/lib/apt/lists/*
