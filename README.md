@@ -1,4 +1,4 @@
-## ROS 2 Environment with Mujoco
+# ROS 2 Environment with Mujoco
 
 
 The following repository ROS 2 environment with [Mujoco](https://mujoco.org/) - advanced physics simulator.
