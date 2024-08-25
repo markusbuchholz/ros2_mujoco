@@ -58,5 +58,5 @@ cd /home/mujoco/mujoco-3.2.2/bin
 
 ## Acknowledgment
 
-[mujoco_ros2_control](https://github.com/sangteak601/mujoco_ros2_control)
-[Mujoco documentation](https://mujoco.readthedocs.io/en/latest/overview.html)
+- [mujoco_ros2_control](https://github.com/sangteak601/mujoco_ros2_control)
+- [Mujoco documentation](https://mujoco.readthedocs.io/en/latest/overview.html)
