@@ -45,6 +45,15 @@ rqt
 ![image](https://github.com/user-attachments/assets/3032c9ca-cd39-4291-80ba-9ec4dba189da)
 
 
+## Run Mujoco 
+
+```bash
+
+cd /home/mujoco/mujoco-3.2.2/bin
+
+./simulate ../model/humanoid/humanoid.xml
+```
+
 
 ## Acknowledgment
 
