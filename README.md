@@ -53,8 +53,10 @@ cd /home/mujoco/mujoco-3.2.2/bin
 
 ./simulate ../model/humanoid/humanoid.xml
 ```
+![image](https://github.com/user-attachments/assets/95a41995-ee8a-48d7-ad69-8cffee9ec3dc)
 
 
 ## Acknowledgment
 
 [mujoco_ros2_control](https://github.com/sangteak601/mujoco_ros2_control)
+[Mujoco documentation](https://mujoco.readthedocs.io/en/latest/overview.html)
